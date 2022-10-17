@@ -1,0 +1,3 @@
+%{
+  "eunomo": {:hex, :eunomo, "1.0.0", "bf21365ffee092e2c669bfb3bc512ff7ad746dd7ef7cc823aa44025a9d8efbec", [:mix], [], "hexpm", "7b181f96f1f1ef80fc6b34809fc0b73314571d881c3d0603cdf65c33aa67ca46"},
+}
